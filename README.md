@@ -25,7 +25,7 @@ npm run serve
 
 ## 詳細情報
 
-さらに詳しい実行方法は、[Vueサンプルの実行手順](https://github.com/hexabase/example-vue-todo/blob/develop/get_start.md)を参照してください。
+さらに詳しい実行方法は、[Vueサンプルの実行手順](https://github.com/hexabase/example-vue-todo/blob/main/get_start.md)を参照してください。
 
 
 ## License
